@@ -1,0 +1,17 @@
+{
+  "name": "school-finder",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "paigerichards <paige.richards14@hotmail.co.uk>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
